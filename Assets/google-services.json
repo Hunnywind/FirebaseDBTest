@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "20430383669",
+    "project_id": "fir-database-test-a762f",
+    "storage_bucket": "fir-database-test-a762f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20430383669:android:3cea6d82eb40a26f1a9f7c",
+        "android_client_info": {
+          "package_name": "com.hunnywind.FirebaseDBTest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20430383669-optlapp4t168pmd6n21dsktbuo3433el.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj1qa3qq5uFeZNJ6eL1ze60ZgnWjNe58U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20430383669-optlapp4t168pmd6n21dsktbuo3433el.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
